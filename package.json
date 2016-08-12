@@ -1,0 +1,47 @@
+{
+  "name": "cdss-api",
+  "version": "0.1.0",
+  "author": {
+    "name": "jerry"
+  },
+  "description": "cdss-api project",
+  "licenses": [
+    {
+      "type": "GPLv2",
+      "url": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-connect": "~0.8.0",
+    "grunt-contrib-copy": "~0.4.0",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-contrib-imagemin": "~0.8.1",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-less": "^1.3.0",
+    "grunt-contrib-rename": "0.0.3",
+    "grunt-contrib-requirejs": "^1.0.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-html2js": "~0.2.7",
+    "grunt-newer": "~0.7.0",
+    "grunt-ng-annotate": "~0.3.2",
+    "grunt-wiredep": "~1.8.0",
+    "load-grunt-tasks": "~0.5.0",
+    "time-grunt": "^1.3.0"
+  },
+  "dependencies": {
+    "grunt-autoprefixer": "^3.0.4"
+  }
+}
